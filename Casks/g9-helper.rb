@@ -1,6 +1,6 @@
 cask "g9-helper" do
-  version "1.2.2"
-  sha256 "a772f3062395ea6b0de75edc6e45387f2f2a9404462256ebf69356d68a43398f"
+  version "1.2.3"
+  sha256 "4bde8817ba220bfbc63703b371fdfd6be26ce73f47ec4c1a0486deac4acf8aa7"
 
   url "https://github.com/knightynite/HiDPIVirtualDisplay/releases/download/v#{version}/G9.Helper-v#{version}.dmg"
   name "G9 Helper"
