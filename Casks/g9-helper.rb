@@ -7,7 +7,7 @@ cask "g9-helper" do
   desc "HiDPI Retina scaling for Samsung Odyssey G9 and large monitors"
   homepage "https://github.com/knightynite/HiDPIVirtualDisplay"
 
-  depends_on macos: ">= :monterey"
+  depends_on macos: :monterey
 
   app "G9 Helper.app"
 
